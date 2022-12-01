@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felix Auer</h1>
 <h3 align="center">A developer from Vienna, Austria</h3>
 
-- 🔭 I’m currently working at [World4You Internet Services GmbH](https://www.world4you.com/)
+- 🔭 I’m currently changing jobs.
 
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
+- 🌱 I’m currently learning **C#**
 
 - 🎨 I'm mostly known for [TwoInchBrush.com](https://www.twoinchbrush.com/)
 
